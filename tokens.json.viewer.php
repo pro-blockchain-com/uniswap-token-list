@@ -14,7 +14,7 @@ $m[name] = "ProBlockchainToken";
 $m[symbol] = "PROTOKEN";
 $m[decimals] = 18;
 $m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
-//$out[] = $m;
+$out[] = $m;
 
 
 
