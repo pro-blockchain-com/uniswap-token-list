@@ -10,7 +10,7 @@ $mas = $a;
 //print_r($a);die;
 $m[address] = "0xa7bc3d36a189d1448fce9c135be0e1496039ac48";
 $m[chainId] = 1;
-$m[name] = "PRO-BLOCKCHAIN.TOKEN";
+$m[name] = "ProBlockchainToken";
 $m[symbol] = "PROTOKEN";
 $m[decimals] = 18;
 $m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
