@@ -38,7 +38,7 @@ foreach($a[tokens] as $v)
     }
 }
 $mas[name] = "ProBlkchnTknList";
-$mas[name] = "1 Pro-Blockchain.com";
+$mas[name] = "1 ProBlockchain";
 //$mas[timestamp] = "2020-09-05T10:00:00+03:00";
 $mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time()-3600*3)."+00:00";
 //$mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time-3600)."+02:00";
