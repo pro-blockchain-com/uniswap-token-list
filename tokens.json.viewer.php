@@ -37,7 +37,7 @@ foreach($a[tokens] as $v)
     file_put_contents($f,$b);
     }
 }
-$mas[name] = "PRO-BLOCKCHAIN token list";
+$mas[name] = "ProBlockchainTokenList";
 $mas[timestamp] = "2020-09-05T10:00:00+03:00";
 $mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time()-3600*2)."+02:00";
 $mas[keywords][0] = "pro-blockchain";
