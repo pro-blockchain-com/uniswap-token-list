@@ -49,7 +49,7 @@ $mas[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-to
 print_r($mas);
 
 $l = 0;
-//$l += JSON_PRETTY_PRINT;
+$l += JSON_PRETTY_PRINT;
 $l += JSON_UNESCAPED_SLASHES;
 $txt = json_encode($mas,$l);
 
