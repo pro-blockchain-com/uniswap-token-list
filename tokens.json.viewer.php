@@ -3,7 +3,7 @@
 
 include "conf.php";
 
-$f = "tokens.1inch.eth.link.2020-09-05";
+$f = "tokens.1inch.eth.link.2020-09-05.json";
 $a = file_get_contents($f);
 $a = json_decode($a,1);
 $mas = $a;
