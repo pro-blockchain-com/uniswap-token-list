@@ -14,7 +14,7 @@ $m[name] = "ProBlockchainToken";
 $m[symbol] = "PROTOKEN";
 $m[decimals] = 18;
 $m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
-$out[] = $m;
+//$out[] = $m;
 
 
 
@@ -39,6 +39,7 @@ foreach($a[tokens] as $v)
 }
 $mas[name] = "PRO-BLOCKCHAIN token list";
 $mas[timestamp] = "2020-09-05T10:00:00+03:00";
+$mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time()-3600*2)."+02:00";
 $mas[keywords][0] = "pro-blockchain";
 $mas[tokens] = $out;
 $mas[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
@@ -47,7 +48,7 @@ $mas[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-to
 print_r($mas);
 
 $l = 0;
-$l += JSON_PRETTY_PRINT;
+//$l += JSON_PRETTY_PRINT;
 $l += JSON_UNESCAPED_SLASHES;
 $txt = json_encode($mas,$l);
 
