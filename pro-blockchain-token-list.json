@@ -15,7 +15,7 @@
         {
             "address": "0xa7bc3d36a189d1448fce9c135be0e1496039ac48",
             "chainId": 1,
-            "name": "PRO-BLOCKCHAIN.TOKEN",
+            "name": "ProBlockchainToken",
             "symbol": "PROTOKEN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
