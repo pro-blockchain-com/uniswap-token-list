@@ -40,8 +40,8 @@ foreach($a[tokens] as $v)
 $mas[name] = "ProBlkchnTknList";
 $mas[name] = "1 Pro-Blockchain.com";
 //$mas[timestamp] = "2020-09-05T10:00:00+03:00";
-//$mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time()-3600*2)."+02:00";
-$mas[timestamp] = date("Y-m-d")."T".date("H:i:s")."+02:00";
+$mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time()-3600*3)."+00:00";
+//$mas[timestamp] = date("Y-m-d")."T".date("H:i:s",time-3600)."+02:00";
 $mas[keywords][0] = "ProBlockchainCom";
 $mas[tokens] = $out;
 $mas[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
