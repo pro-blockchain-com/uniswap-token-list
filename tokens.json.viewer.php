@@ -17,6 +17,30 @@ $m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-toke
 $out[] = $m;
 
 
+$m[address] = "0x27ee620c70b84335f8b7d4324fa10d04131de6f7";
+$m[chainId] = 5;
+$m[name] = "ProBlockchainToken";
+$m[symbol] = "PROTOKEN";
+$m[decimals] = 18;
+$m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
+$out[] = $m;
+
+$m[address] = "0x470bdfb02f87cc546aa5a75b200415f092e6950a";
+$m[chainId] = 3;
+$m[name] = "ProBlockchainToken";
+$m[symbol] = "PROTOKEN";
+$m[decimals] = 18;
+$m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
+$out[] = $m;
+
+$m[address] = "0xe56d096da54451d87b7a98f4f95a39a8e556817c";
+$m[chainId] = 4;
+$m[name] = "ProBlockchainToken";
+$m[symbol] = "PROTOKEN";
+$m[decimals] = 18;
+$m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png";
+$out[] = $m;
+
 $skip_another = 1;
 if(!$skip_another)
 {
