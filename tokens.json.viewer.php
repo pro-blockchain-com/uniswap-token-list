@@ -17,7 +17,9 @@ $m[logoURI] = "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-toke
 $out[] = $m;
 
 
-
+$skip_another = 1;
+if(!$skip_another)
+{
 $d = __DIR__;
 foreach($a[tokens] as $v)
 {
@@ -37,6 +39,7 @@ foreach($a[tokens] as $v)
     file_put_contents($f,$b);
     }
 }
+}
 $mas[name] = "ProBlkchnTknList";
 $mas[name] = "1 ProBlockchain";
 //$mas[timestamp] = "2020-09-05T10:00:00+03:00";
@@ -54,5 +57,10 @@ $l += JSON_PRETTY_PRINT;
 $l += JSON_UNESCAPED_SLASHES;
 $txt = json_encode($mas,$l);
 
+//if()
+if(!$skip_another)
 $f = "pro-blockchain-token-list.json";
+else
+$f = "pro-blockchain-token.json";
+
 file_put_contents($f,$txt);

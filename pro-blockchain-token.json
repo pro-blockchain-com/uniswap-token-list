@@ -1,0 +1,25 @@
+{
+    "name": "1 ProBlockchain",
+    "timestamp": "2020-09-06T15:08:59+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "ProBlockchainCom",
+        "default",
+        "list"
+    ],
+    "tokens": [
+        {
+            "address": "0xa7bc3d36a189d1448fce9c135be0e1496039ac48",
+            "chainId": 1,
+            "name": "ProBlockchainToken",
+            "symbol": "PROTOKEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+        }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+}
