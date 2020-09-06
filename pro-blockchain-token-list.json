@@ -1,6 +1,6 @@
 {
     "name": "1 ProBlockchain",
-    "timestamp": "2020-09-05T11:18:41+00:00",
+    "timestamp": "2020-09-07T22:01:18+00:00",
     "version": {
         "major": 1,
         "minor": 0,
@@ -15,6 +15,30 @@
         {
             "address": "0xa7bc3d36a189d1448fce9c135be0e1496039ac48",
             "chainId": 1,
+            "name": "ProBlockchainToken",
+            "symbol": "PROTOKEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+        },
+        {
+            "address": "0x27ee620c70b84335f8b7d4324fa10d04131de6f7",
+            "chainId": 5,
+            "name": "ProBlockchainToken",
+            "symbol": "PROTOKEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+        },
+        {
+            "address": "0x470bdfb02f87cc546aa5a75b200415f092e6950a",
+            "chainId": 3,
+            "name": "ProBlockchainToken",
+            "symbol": "PROTOKEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+        },
+        {
+            "address": "0xe56d096da54451d87b7a98f4f95a39a8e556817c",
+            "chainId": 4,
             "name": "ProBlockchainToken",
             "symbol": "PROTOKEN",
             "decimals": 18,
