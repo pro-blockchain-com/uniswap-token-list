@@ -1,6 +1,6 @@
 {
     "name": "1 ProBlockchain",
-    "timestamp": "2020-09-11T18:40:14+00:00",
+    "timestamp": "2020-09-11T18:57:41+00:00",
     "version": {
         "major": 1,
         "minor": 0,
@@ -45,7 +45,7 @@
             "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
         },
         {
-            "address": "0x590118E6F4f6A6EAe40785FA027e07C0747c7f12 ",
+            "address": "0x590118E6F4f6A6EAe40785FA027e07C0747c7f12",
             "chainId": 4,
             "name": "ProTTTT",
             "symbol": "PROTTT",
