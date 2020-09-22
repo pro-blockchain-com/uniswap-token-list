@@ -1,6 +1,6 @@
 {
     "name": "1 ProBlockchain",
-    "timestamp": "2020-09-11T18:57:41+00:00",
+    "timestamp": "2020-09-22T17:57:24+00:00",
     "version": {
         "major": 1,
         "minor": 0,
@@ -45,12 +45,12 @@
             "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
         },
         {
-            "address": "0x590118E6F4f6A6EAe40785FA027e07C0747c7f12",
-            "chainId": 4,
-            "name": "ProTTTT",
-            "symbol": "PROTTT",
+            "address": "0xb2d74b7a454eda300c6e633f5b593d128c0c0dcf",
+            "chainId": 1,
+            "name": "Qub Token",
+            "symbol": "QUB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/protoken.png"
+            "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-token-list/master/img/qub.png"
         },
         {
             "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
